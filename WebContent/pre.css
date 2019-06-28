@@ -1,0 +1,29 @@
+body{
+	padding-top:100px;
+	margin:0;
+}
+
+div.item{
+	vertical-align:top;
+	display: inline-block;
+	text-align: center;
+	width: 120px;
+}
+
+img{
+	width:500px;
+	height:100px;
+	padding: 10px;
+}
+
+.caption {
+	display: block;
+}
+.date {
+	color:red;
+	
+}
+
+.upcoming {
+	color: #D72AF6;
+}

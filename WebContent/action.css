@@ -1,0 +1,32 @@
+body{
+	padding-top:100px;
+	margin:0;
+}
+p.head{
+	color: #B22222;
+}
+p.intro{
+	color: #8B008B;
+}
+p.shot{
+	color: #FF1493;
+	font-weight: bold;
+}
+p.info{
+	color: #C71585;
+	text-align = right;
+}
+.button{
+	display:flex;
+	justify-content:flex-end;
+	align-items:right;
+}
+
+p.screen {
+	margin-bottom: 100px;
+	margin-top: 100px;
+	color: #FF1493;
+	margin-right:20px;
+}
+ 
+
